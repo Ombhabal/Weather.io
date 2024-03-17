@@ -62,3 +62,7 @@ Welcome to Weather.io, a meticulously crafted weather app that levereges cutting
 ## Screenshots
 
 Here are some screen shots:
+
+![image](https://github.com/Ombhabal/Weather.io/assets/143935443/4c50a41a-498b-48f0-abc3-fcdc6dba76ee)
+
+
