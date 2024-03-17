@@ -65,7 +65,7 @@ Here are some screen shots:
 
 - Desktop Site View
 
-![image](https://github.com/Ombhabal/Weather.io/assets/143935443/59fb1aae-650c-4596-898a-e698a2fff852)
+![image](https://github.com/Ombhabal/Weather.io/assets/143935443/cacdac5f-d339-4d90-9716-170279e91f13)
 
 - Mobile View
 
