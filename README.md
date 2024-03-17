@@ -59,3 +59,6 @@ Welcome to Weather.io, a meticulously crafted weather app that levereges cutting
 - **Intelligent Autocomplete:** Enjoy a seamless location search experience with intelligent place autocomplete suggestions powered by the React Leaflt API, and also to obtain coordinates, ensuring accurate and up-to-date information.
 - **Seamless Theme Transitions:** Switch between themes effortlessly thanks to React Hotkeys Hook, ensuring a visually pleasing and accessible interface.
 
+## Screenshots
+
+Here are some screen shots:
