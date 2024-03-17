@@ -63,9 +63,13 @@ Welcome to Weather.io, a meticulously crafted weather app that levereges cutting
 
 Here are some screen shots:
 
+- Desktop Site View
+
 ![image](https://github.com/Ombhabal/Weather.io/assets/143935443/59fb1aae-650c-4596-898a-e698a2fff852)
 
-![image](https://github.com/Ombhabal/Weather.io/assets/143935443/ca24ab7a-3c30-40ef-99eb-dd5dd1115034)
+- Mobile View
+
+![image](https://github.com/Ombhabal/Weather.io/assets/143935443/d87056cc-7a17-4d6e-8602-2a9c4d3d339d)
 
 
 
