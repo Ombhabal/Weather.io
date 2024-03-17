@@ -34,3 +34,38 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Installation
+Go to main dirrectory and open terminal and write below command:
+
+``` bash
+npm i
+```
+
+## API
+
+Create an env file and add variable.
+
+OPENWEATHERMAP_API_KEY = {YOUR_API_KEY}
+
+get api key at [openweathermap](https://openweathermap.org/api)
+
+## Overview
+Welcome to Weather.io, a meticulously crafted weather app that levereges cutting-edge technologies. Powered by Next.js 14, TypeScript,Tailwind CSS and the elegance of Shadcn UI library, it delivers a seamless weather experience.✨ It also leverages React Hotkeys Hook for smooth theme transitions and a versatile command menu, React Map GL for Mapbox map integration, and provides intelligent places autocomplete suggestions powered by React Leaflt API.
+
+## Features
+- **Current Weather Conditions:** Provides access to current weather conditions, including temperature, population, wind speed, UV index, and more.
+- **Forecast:** Access a 5-day weather forecast and a 24-hour forecast at your fingertips.
+- **Intelligent Autocomplete:** Enjoy a seamless location search experience with intelligent place autocomplete suggestions powered by the React Leaflt API, and also to obtain coordinates, ensuring accurate and up-to-date information.
+- **Seamless Theme Transitions:** Switch between themes effortlessly thanks to React Hotkeys Hook, ensuring a visually pleasing and accessible interface.
+
+## Screenshots
+
+Here are some screen shots:
+
+![image](https://github.com/Ombhabal/Weather.io/assets/143935443/4c50a41a-498b-48f0-abc3-fcdc6dba76ee)
+
+![image](https://github.com/Ombhabal/Weather.io/assets/143935443/ca24ab7a-3c30-40ef-99eb-dd5dd1115034)
+
+
+
