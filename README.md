@@ -65,4 +65,7 @@ Here are some screen shots:
 
 ![image](https://github.com/Ombhabal/Weather.io/assets/143935443/4c50a41a-498b-48f0-abc3-fcdc6dba76ee)
 
+![image](https://github.com/Ombhabal/Weather.io/assets/143935443/ca24ab7a-3c30-40ef-99eb-dd5dd1115034)
+
+
 
