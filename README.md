@@ -49,3 +49,13 @@ Create an env file and add variable.
 OPENWEATHERMAP_API_KEY = {YOUR_API_KEY}
 
 get api key at [openweathermap](https://openweathermap.org/api)
+
+## Overview
+Welcome to Weather.io, a meticulously crafted weather app that levereges cutting-edge technologies. Powered by Next.js 14, TypeScript,Tailwind CSS and the elegance of Shadcn UI library, it delivers a seamless weather experience.✨ It also leverages React Hotkeys Hook for smooth theme transitions and a versatile command menu, React Map GL for Mapbox map integration, and provides intelligent places autocomplete suggestions powered by React Leaflt API.
+
+## Features
+- **Current Weather Conditions:** Provides access to current weather conditions, including temperature, population, wind speed, UV index, and more.
+- **Forecast:** Access a 5-day weather forecast and a 24-hour forecast at your fingertips.
+- **Intelligent Autocomplete:** Enjoy a seamless location search experience with intelligent place autocomplete suggestions powered by the React Leaflt API, and also to obtain coordinates, ensuring accurate and up-to-date information.
+- **Seamless Theme Transitions:** Switch between themes effortlessly thanks to React Hotkeys Hook, ensuring a visually pleasing and accessible interface.
+
