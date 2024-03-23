@@ -80,7 +80,7 @@ export default function Home() {
         <p className="footer-text text-sm flex items-center gap-1">
           Made by 💖
           <a
-            href="https://github.com/Ombhabal"
+            href="https://github.com/Ombhabal/Weather.io.git"
             target="_blank"
             className=" text-green-300 font-bold"
           >
