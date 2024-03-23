@@ -84,7 +84,7 @@ export default function Home() {
             target="_blank"
             className=" text-green-300 font-bold"
           >
-            Om Bhabal
+            Om Bhabal, Paras Natekar, Vighnesh Nair and Harsh Pardeshi
           </a>
         </p>
       </footer>
